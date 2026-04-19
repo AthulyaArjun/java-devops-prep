@@ -23,4 +23,13 @@ This repository tracks my preparation for DevOps roles.
 - Stack vs Heap
 - Java execution flow
 
+### Day 2
+- Program structure
+- Variables
+- Primitive & non primitive datatypes
+- Type casting
+- Operators
+- Scanner
+- StudentInfoCalculatorSystem project
+
 More updates daily.
