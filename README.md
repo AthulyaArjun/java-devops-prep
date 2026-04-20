@@ -40,4 +40,13 @@ This repository tracks my preparation for DevOps roles.
 - Continue
 - Mini ATM project
 
+### Day 4
+- Method & Functions
+- Parameter & Arguments
+- Return Type
+- Static & Non-static method
+- Method Overloading
+- Recursion
+- StudentUtilitySystem Project
+
 More updates daily.
