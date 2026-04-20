@@ -32,4 +32,12 @@ This repository tracks my preparation for DevOps roles.
 - Scanner
 - StudentInfoCalculatorSystem project
 
+### Day 3
+- Control Flows
+- Loops
+- Switch
+- Break
+- Continue
+- Mini ATM project
+
 More updates daily.
