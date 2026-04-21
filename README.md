@@ -49,4 +49,13 @@ This repository tracks my preparation for DevOps roles.
 - Recursion
 - StudentUtilitySystem Project
 
+### Day 5
+- Square Star
+- Right Triangle Star
+- Inverted Triangle Star
+- Number Triangle
+- Continuous Number Triangle
+- Reverse Number Triangle
+- Repeated Number Triangle
+
 More updates daily.
