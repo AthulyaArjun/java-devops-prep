@@ -1,31 +1,32 @@
 /**
- * for n=4
- * 1
- * 2 3
- * 4 5 6
- * 7 8 9 10
+ * for n=5
+ * A
+ * A B
+ * A B C
+ * A B C D
+ * A B C D E
  */
 package PatternProgramming;
 
 import java.util.Scanner;
 
-public class ContinuousNumber_5 {
+public class AlphabetTriangle_8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a number: ");
         int n = sc.nextInt();
 
-        int start = 1;
-
         for (int i=1; i<=n; i++){
+            char ch = 'A';
+
             for (int j=1; j<=i; j++){
-                System.out.print(start+" ");
-                start++;
+                System.out.print(ch+" ");
+                ch++;
             }
             System.out.println();
         }
-        sc.close();
 
+        sc.close();
     }
 }

@@ -54,8 +54,19 @@ This repository tracks my preparation for DevOps roles.
 - Right Triangle Star
 - Inverted Triangle Star
 - Number Triangle
-- Continuous Number Triangle
+- Floyds Triangle
 - Reverse Number Triangle
 - Repeated Number Triangle
+
+### Day 6
+- Alphabet Triangle
+- Binary Triangle 
+- Hollow Square
+- Pyramid Star
+- Inverted Pyramid
+- Diamond
+- Butterfly
+- Hollow Pyramid
+- Pascals Triangle
 
 More updates daily.
