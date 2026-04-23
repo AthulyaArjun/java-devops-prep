@@ -69,4 +69,15 @@ This repository tracks my preparation for DevOps roles.
 - Hollow Pyramid
 - Pascals Triangle
 
+### Day 7
+- Armstrong Number
+- Fibonacci Series
+- Strong Number
+- Perfect Number
+- HCF & LCM
+- Diamond
+- X Pattern
+- Sand glass Pattern
+- Coding standards and escape sequences
+
 More updates daily.
