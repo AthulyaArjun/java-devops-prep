@@ -94,4 +94,16 @@ This repository tracks my preparation for DevOps roles.
 - Copy an Array
 - Bubble Sort
 
+### Day 9
+- Introduction to 2D Arrays
+- Input 2D Array
+- Sum of Elements in 2D Array
+- Sum of Rows
+- Sum of Columns
+- Main Diagonal Sum
+- Secondary Diagonal Sum
+- Matrix Transpose
+- Matrix Addition
+- Identity Matrix
+
 More updates daily.
