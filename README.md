@@ -80,4 +80,18 @@ This repository tracks my preparation for DevOps roles.
 - Sand glass Pattern
 - Coding standards and escape sequences
 
+
+### Day 8
+- Introduction to Arrays
+- Print Array
+- Sum of Elements in Array
+- Largest Element
+- Smallest Element
+- Search Element
+- Reverse an Array
+- Count Even and Odd Numbers in Array
+- Second Largest in Array
+- Copy an Array
+- Bubble Sort
+
 More updates daily.
