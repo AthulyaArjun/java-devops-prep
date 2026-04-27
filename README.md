@@ -106,4 +106,17 @@ This repository tracks my preparation for DevOps roles.
 - Matrix Addition
 - Identity Matrix
 
+### Day 10
+- Duplicate Elements in Array
+- Remove Duplicate in Array
+- Merge Two Arrays
+- Missing Number in Array
+- Count Frequency in Array
+- Left Rotate by One
+- Right Rotate by One
+- Two Sum Brute Force
+- Common Element in 2 Arrays
+- Move Zeroes to End
+
+
 More updates daily.
