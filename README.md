@@ -118,5 +118,15 @@ This repository tracks my preparation for DevOps roles.
 - Common Element in 2 Arrays
 - Move Zeroes to End
 
+### Day 11
+- Leaders in Array
+- Kadane's Algorithm
+- Buy & Sell
+- Majority Element
+- Boyer Moore Voting Algorithm
+- Union of Two Array
+- Intersection of Two Array
+- Rotate Array by K
+- Rearrange Positive & Negative Number in Array
 
 More updates daily.
