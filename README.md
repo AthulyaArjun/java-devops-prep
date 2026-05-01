@@ -129,4 +129,11 @@ This repository tracks my preparation for DevOps roles.
 - Rotate Array by K
 - Rearrange Positive & Negative Number in Array
 
+### Day 12
+- Matrix Multiplication
+- Spiral Traversal
+- Search Element
+- Rotate Clockwise 90 Degree
+- Boundary Traversal
+
 More updates daily.
