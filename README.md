@@ -136,4 +136,12 @@ This repository tracks my preparation for DevOps roles.
 - Rotate Clockwise 90 Degree
 - Boundary Traversal
 
+### Day 13
+- Jagged Array
+- Sum of Each Row in Jagged Array
+- Largest Element in Jagged Array
+- Prefix Sum Array
+- Prefix Sum Range
+- Sliding Window 
+
 More updates daily.
