@@ -144,4 +144,16 @@ This repository tracks my preparation for DevOps roles.
 - Prefix Sum Range
 - Sliding Window 
 
-More updates daily.
+### Day 14
+- Introduction to Strings
+- Common String Methods
+- Reverse a String
+- Prefix Sum Array
+- String Palindrome
+- Vowels in String
+- Frequency of Characters in String
+- Remove Space in String
+- Word Count
+- Duplicate Character Count in String
+
+  More updates daily.
