@@ -156,4 +156,13 @@ This repository tracks my preparation for DevOps roles.
 - Word Count
 - Duplicate Character Count in String
 
+### Day 15
+- Remove Duplicates
+- String Anagram
+- Reverse Each Word
+- Highest Frequency Character
+- Toggle Case
+- String Compression
+- Introduction to StringBuilder and its Methods
+
   More updates daily.
