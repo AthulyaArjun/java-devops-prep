@@ -165,4 +165,16 @@ This repository tracks my preparation for DevOps roles.
 - String Compression
 - Introduction to StringBuilder and its Methods
 
+### Day 16
+- Palindrome using StringBuilder
+- Reverse Word using StringBuilder
+- Reverse Order of Word using StringBuilder
+- Remove Duplicates using StringBuilder
+- String Compression using StringBuilder
+- First Non-Repeating Character
+- Longest Word
+- Count Words
+- First Repeating Character
+- Check if String Contains Only Digits
+
   More updates daily.

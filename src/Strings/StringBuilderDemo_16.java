@@ -5,6 +5,9 @@ without creating a new object.
 - Faster and more memory efficient than String
 - But is NOT thread safe (for thread safety, use StringBuffer)
 
+ append() modifies the same object.
+ No new object creation like String concatenation.
+
 syntax:
 StringBuilder sb = new StringBuilder("Hello");
  */
@@ -162,3 +165,12 @@ public class StringBuilderDemo_16 {
         System.out.println("========== End of Demo ==========");
     }
 }
+
+/**
+ * | Feature          | String | StringBuffer | StringBuilder |
+ * | ---------------- | ------ | ------------ | ------------- |
+ * | Mutable          | No     | Yes          | Yes           |
+ * | Thread Safe      | Yes    | Yes          | No            |
+ * | Performance      | Slow   | Medium       | Fast          |
+ * | Memory Efficient | No     | Better       | Best          |
+ */
