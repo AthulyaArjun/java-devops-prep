@@ -183,5 +183,11 @@ This repository tracks my preparation for DevOps roles.
 - Introduction To OOPS
 - Class & Object
 - Constructor- Default & Parametrized
+- Constructor Chaining
+- Encapsulation
+- Inheritance
+- Method Overriding
+- Polymorphism
+- Abstraction
 
   More updates daily.
