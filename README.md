@@ -190,4 +190,11 @@ This repository tracks my preparation for DevOps roles.
 - Polymorphism
 - Abstraction
 
+### Day 18
+- Interface
+- Multiple Inheritance
+- this
+- super
+- final
+
   More updates daily.
