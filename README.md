@@ -197,4 +197,13 @@ This repository tracks my preparation for DevOps roles.
 - super
 - final
 
+### Day 19
+- Object Class
+- toString()
+- equals()
+- instanceOf()
+- hashCode()
+- Wrapper class
+- Autoboxing and Unboxing
+
   More updates daily.
