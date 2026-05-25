@@ -206,4 +206,15 @@ This repository tracks my preparation for DevOps roles.
 - Wrapper class
 - Autoboxing and Unboxing
 
+### Day 20
+- Introduction to Collections
+- ArrayList
+- Traversing ArrayList
+- Sum of Elements
+- Largest Element
+- Search Element
+- Odd Even Count
+- Duplicate Removal
+- Sorting ArrayList
+
   More updates daily.
