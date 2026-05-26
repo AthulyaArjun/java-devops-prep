@@ -217,4 +217,11 @@ This repository tracks my preparation for DevOps roles.
 - Duplicate Removal
 - Sorting ArrayList
 
+### Day 21
+- LinkedList
+- Vector
+- Stack
+- Queue
+- Priority Queue
+
   More updates daily.
