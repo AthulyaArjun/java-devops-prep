@@ -224,4 +224,18 @@ This repository tracks my preparation for DevOps roles.
 - Queue
 - Priority Queue
 
+### Day 22
+- HashSet
+- HashSet Traversal
+- Duplicate Removal Using HashSet
+- Checking Duplicate Using HashSet
+- Union Using HashSet
+- LinkedHashSet
+- TreeSet
+- HashMap
+- Frequency Counter Using HashMap
+- LeetCode Roman To Integer
+- LeetCode Sum Zero
+- LeetCode Array Sign
+
   More updates daily.
