@@ -20,7 +20,7 @@
 
 * Given a roman numeral, convert it to an integer. */
 
-package LeetCodePractices;
+package LeetCodePractices.Easy;
 
 import java.util.Scanner;
 

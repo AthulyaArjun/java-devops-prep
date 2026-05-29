@@ -13,7 +13,7 @@
  * Explanation: The product of all values in the array is 144, and signFunc(144) = 1
  */
 
-package LeetCodePractices;
+package LeetCodePractices.Easy;
 
 import java.util.Scanner;
 

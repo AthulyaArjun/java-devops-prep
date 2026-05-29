@@ -4,7 +4,7 @@
  * Output: [-7,-1,1,3,4]
  */
 
-package LeetCodePractices;
+package LeetCodePractices.Easy;
 
 import java.util.Arrays;
 import java.util.Scanner;
