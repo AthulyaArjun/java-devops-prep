@@ -245,4 +245,11 @@ This repository tracks my preparation for DevOps roles.
 - LeetCode Logger Rate Limiter
 - LeetCode Tic Tac Toe
 
+### Day 24
+- How to solve LeetCode Problems
+- Longest Common Prefix
+- Missing Number
+- Contain Duplicate
+- Contains Duplicate
+
   More updates daily.
