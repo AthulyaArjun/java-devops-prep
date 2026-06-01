@@ -252,4 +252,9 @@ This repository tracks my preparation for DevOps roles.
 - Contain Duplicate
 - Contains Duplicate
 
+### Day 25
+- Buy & Sell Stock
+- Valid Anagram
+- First Unique Character in String
+
   More updates daily.
