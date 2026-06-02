@@ -257,4 +257,13 @@ This repository tracks my preparation for DevOps roles.
 - Valid Anagram
 - First Unique Character in String
 
+### Day 26
+- Introduction to Exception
+- Try-Catch
+- Multiple Catch
+- Finally
+- Throw
+- Throws
+- Custom Exception
+
   More updates daily.
