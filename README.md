@@ -253,9 +253,9 @@ This repository tracks my preparation for DevOps roles.
 - Contains Duplicate
 
 ### Day 25
-- Buy & Sell Stock
-- Valid Anagram
-- First Unique Character in String
+- LeetCode Buy & Sell Stock
+- LeetCode Valid Anagram
+- LeetCode First Unique Character in String
 
 ### Day 26
 - Introduction to Exception
@@ -265,5 +265,13 @@ This repository tracks my preparation for DevOps roles.
 - Throw
 - Throws
 - Custom Exception
+
+### Day 27
+- Introduction to Multithreading
+- sleep()
+- join()
+- Thread States
+- LeetCode Single Number
+- LeetCode Intersection of 2 Arrays
 
   More updates daily.
