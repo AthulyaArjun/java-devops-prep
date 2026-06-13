@@ -291,4 +291,11 @@ This repository tracks my preparation for DevOps roles.
 - LeetCode Ransom Note
 - LeetCode Valid Parentheses
 
+### Day 29
+- Introduction to Lambda Expressions
+- Functional Interface
+- Built-in Functional  - Predicate, Function, Consumer, Supplier
+- LeetCode Valid Palindrome
+- LeetCode Length of Last Word
+
   More updates daily.
