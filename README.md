@@ -274,4 +274,21 @@ This repository tracks my preparation for DevOps roles.
 - LeetCode Single Number
 - LeetCode Intersection of 2 Arrays
 
+### Day 28
+- Synchronization
+- Executor Framework
+- Introduction to Streams
+- Stream Pipeline
+- filter()
+- map()
+- forEach()
+- collect()
+- LeetCode Group Anagram
+- LeetCode Happy Number
+- LeetCode Isomorphic Strings
+- LeetCode Majority Element
+- LeetCode Merge Sorted Array
+- LeetCode Ransom Note
+- LeetCode Valid Parentheses
+
   More updates daily.
