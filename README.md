@@ -298,4 +298,17 @@ This repository tracks my preparation for DevOps roles.
 - LeetCode Valid Palindrome
 - LeetCode Length of Last Word
 
+### Day 30
+- sorted()
+- distinct()
+- limit()
+- skip()
+- count()
+- findFirst()
+- match()
+- LeetCode Plus One
+- LeetCode Remove Element
+- LeetCode Find the Difference
+- LeetCode Top K Frequent Element
+
   More updates daily.
