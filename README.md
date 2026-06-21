@@ -311,4 +311,8 @@ This repository tracks my preparation for DevOps roles.
 - LeetCode Find the Difference
 - LeetCode Top K Frequent Element
 
+### Day 31
+- min(), max()
+- reduce()
+
   More updates daily.
