@@ -315,4 +315,7 @@ This repository tracks my preparation for DevOps roles.
 - min(), max()
 - reduce()
 
+### Day 32
+- Introduction To Spring Boot
+- HTTP Methods
   More updates daily.
