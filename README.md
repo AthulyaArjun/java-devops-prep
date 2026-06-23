@@ -318,4 +318,16 @@ This repository tracks my preparation for DevOps roles.
 ### Day 32
 - Introduction To Spring Boot
 - HTTP Methods
+
+### Day 33
+- URL & Endpoints
+- Spring Boot Architecture
+- Project Creation
+- Maven & Spring Boot Basics
+- API
+- Dependency Injection
+- Path Variable
+- Request Param
+- Service Layer & Dependency Injection
+  
   More updates daily.
