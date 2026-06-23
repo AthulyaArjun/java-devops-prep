@@ -329,5 +329,6 @@ This repository tracks my preparation for DevOps roles.
 - Path Variable
 - Request Param
 - Service Layer & Dependency Injection
+- Generics
   
   More updates daily.
