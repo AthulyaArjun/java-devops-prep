@@ -13,7 +13,8 @@ public class IntroToSpringBoot_1 {
         System.out.println("-------------------------------------------------------");
         System.out.println("  CLIENT");
         System.out.println("-------------------------------------------------------");
-        System.out.println("A client is any application that ASKS for a service or data.");
+        System.out.println("A client is any device or application that ASKS/requests for a service or data" +
+                " from another computer over a network.");
         System.out.println();
         System.out.println("  Examples: Web browser, Mobile apps, Postman, Backend apps");
         System.out.println();
@@ -25,9 +26,16 @@ public class IntroToSpringBoot_1 {
         System.out.println("-------------------------------------------------------");
         System.out.println("  SERVER");
         System.out.println("-------------------------------------------------------");
-        System.out.println("A server is a computer or program that LISTENS for requests");
-        System.out.println("and SENDS back responses.");
+        System.out.println("A server is a computer or program that LISTENS for requests and SENDS back responses.");
         System.out.println();
+        System.out.println("Meaning 1---> Server as a computer");
+        System.out.println("    eg: Google owns thousands of powerful computers in data centres. These computers store:");
+        System.out.println("    GMail, YouTube, Google Maps, Google Photos");
+        System.out.println("When you access YouTube, one of those computers send data to you");
+        System.out.println();
+        System.out.println("Meaning 2 ---> Server as a software");
+        System.out.println("    A server is also a software that listens for incoming requests and responds to them.");
+        System.out.println("    eg: Tomcat, Jetty, Nginx, Apache HTTP Server");
         System.out.println("  It usually:");
         System.out.println("    → Runs 24x7");
         System.out.println("    → Stores data");
@@ -63,6 +71,28 @@ public class IntroToSpringBoot_1 {
         System.out.println("  www.amazon.com --[HTTP Request]--> GET /products");
         System.out.println("  Server         --[HTTP Response]--> Status: 200 OK");
         System.out.println("  Data: [ \"Laptop\", \"Phone\", \"Headphones\" ]");
+        System.out.println();
+
+        //─── REST ──────────────────────────────────────────────────
+        System.out.println("-------------------------------------------------------");
+        System.out.println("  REST");
+        System.out.println("-------------------------------------------------------");
+        System.out.println("REST is a style/rule for designing APIs cleanly");
+        System.out.println();
+        System.out.println("    Good REST API");
+        System.out.println("        GET /students");
+        System.out.println("        POST /students");
+        System.out.println("        PUT /students/1");
+        System.out.println("        DELETE /students/1");
+        System.out.println();
+        System.out.println("    Bad REST API");
+        System.out.println("        /getStudent");
+        System.out.println("        /createStudent");
+        System.out.println();
+        System.out.println("    REST prefers:");
+        System.out.println("        Nouns in urls: /students");
+        System.out.println("        HTTP methods for actions: GET,POST,PUT,DELETE");
+        System.out.println("        JSON for request/response");
         System.out.println();
 
         // ─── SPRING BOOT ──────────────────────────────────────────────────
