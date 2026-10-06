@@ -31,7 +31,7 @@ public class JavaProgramStructure_1 {
  *   main method is the entry point of any java program
  *   main should be written in this specific format
  *   public-- anyone can access it, this is needed so JVM can access it outside the class
- *   static-- means you don't need to create an object to run this method. JVM calls it directly.
+ *   static-- means you don't need to create an object to run this method.JVM calls it directly.
  *   void-- shows this method doesn't return anything
  *   main-- starting point of every java application
  *   String[] args-- this allows us to pass command-line arguments when running the program

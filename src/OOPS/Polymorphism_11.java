@@ -37,7 +37,8 @@ public class Polymorphism_11 {
         e1.work();
         e2.work();
         e3.work();
-        //e1.debug();--> compile time error because parent doesn't know child methods.
+        //e1.debug();--> compile time error because parent doesn't know child methods. The type of reference
+        //determines the method visibility
     }
 }
 
