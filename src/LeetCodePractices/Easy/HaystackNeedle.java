@@ -23,6 +23,11 @@ public class HaystackNeedle {
         }
 
         return -1;
+
+        /**
+        The above code can be rewritten in single step as
+         return haystack.indexOf(needle);
+         */
     }
 
     public static void main(String[] args) {
