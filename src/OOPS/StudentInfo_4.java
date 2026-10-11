@@ -9,10 +9,10 @@ public class StudentInfo_4 {
         Student student = new Student();
         Student student1 = new Student("Athulya");
 
-        MyBook book1 = new MyBook();
-        MyBook book2 = new MyBook("Harry Potter");
-        MyBook book3 = new MyBook("Wings of Fire", "Abdul Kalam");
-        MyBook book4 = new MyBook("God of Small Things", "Arundhathi Roy", 500);
+        MyBooks book1 = new MyBooks();
+        MyBooks book2 = new MyBooks("Harry Potter");
+        MyBooks book3 = new MyBooks("Wings of Fire", "Abdul Kalam");
+        MyBooks book4 = new MyBooks("God of Small Things", "Arundhathi Roy", 500);
 
 
     }
@@ -54,21 +54,21 @@ class Student{
 
 }
 
-class MyBook {
+class MyBooks {
     String title;
     String author;
     int price;
 
-    MyBook(){
+    MyBooks(){
         System.out.println("Default...");
         System.out.println();
     }
-    MyBook(String title){
+    MyBooks(String title){
         this.title = title;
         System.out.println("Title: "+title);
         System.out.println();
     }
-    MyBook(String title, String author){
+    MyBooks(String title, String author){
         this.title = title;
         this.author = author;
         System.out.println("Title: "+title);
@@ -76,7 +76,7 @@ class MyBook {
         System.out.println();
 
     }
-    MyBook(String title, String author, int price){
+    MyBooks(String title, String author, int price){
         this.title = title;
         this.author = author;
         this.price = price;
