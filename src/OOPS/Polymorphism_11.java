@@ -34,11 +34,14 @@ public class Polymorphism_11 {
         Employee e2 = new Tester();
         Employee e3 = new Employee();
 
+        Developer d1 = new Developer();
+
         e1.work();
         e2.work();
         e3.work();
         //e1.debug();--> compile time error because parent doesn't know child methods. The type of reference
         //determines the method visibility
+        d1.debug();
     }
 }
 

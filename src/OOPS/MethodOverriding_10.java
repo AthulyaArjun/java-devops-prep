@@ -5,9 +5,11 @@ public class MethodOverriding_10 {
 
         UPIPayment upi = new UPIPayment();
         CardPayment card = new CardPayment();
+        Payment payment = new Payment();
 
         upi.makePayment();
         card.makePayment();
+        payment.makePayment();
     }
 }
 

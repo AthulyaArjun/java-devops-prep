@@ -6,8 +6,7 @@
  * repeated initialization
  * messy constructors
  *
- * Constructor chaining follows top-down calling, bottom-up execution. Meaning: calls go downward first,
- * print happen while returning upward
+ * constructor calls go inward, and the remaining statements execute as the calls return outward.
  */
 
 package OOPS;

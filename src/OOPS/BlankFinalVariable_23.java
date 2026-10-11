@@ -36,6 +36,9 @@ class FinalDemo{
 
     FinalDemo(int empId){
         this.empId = empId;
+    }
+
+    void display(){
         System.out.println("Employee id: "+empId);
     }
 }
@@ -43,6 +46,7 @@ class FinalDemo{
 public class BlankFinalVariable_23 {
     public static void main(String[] args) {
         FinalDemo finalDemo = new FinalDemo(101);
+        finalDemo.display();
 
     }
 }

@@ -83,5 +83,9 @@ public class MultipleInheritance_15 {
 
         Showable showable = new Document();
         showable.show();
+
+        Document document = new Document();
+        document.print();
+        document.show();
     }
 }

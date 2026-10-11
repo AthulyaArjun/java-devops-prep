@@ -76,8 +76,35 @@ class Avengers{
 
     @Override
     public boolean equals(Object obj){
+
+        if (!(obj instanceof  Avengers)){
+            return false;
+        }
+
         Avengers avengers = (Avengers) obj;
-        return this.id == avengers.id && this.name.equals(avengers.name) && this.power.equals(avengers.power);
+        /**
+         * The above statements can be replaced with pattern matching for instanceOf
+         * @Override
+         * public boolean equals(Object obj) {
+         *
+         *     if (!(obj instanceof Avengers avengers)) {
+         *         return false;
+         *     }
+         *
+         *     return this.id == avengers.id
+         *         && this.name.equals(avengers.name)
+         *         && this.power.equals(avengers.power);
+         * }
+         * obj instanceof Avengers avengers
+         *
+         *
+         * This checks whether obj is an Avengers object and, when it is, makes it available
+         * through the variable avengers.
+         */
+
+        return this.id == avengers.id
+                && this.name.equals(avengers.name)
+                && this.power.equals(avengers.power);
     }
 }
 
